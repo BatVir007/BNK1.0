@@ -1,4 +1,4 @@
 
-# GBA Emulator Core Used:
+# Welcome to Game Playground!
 
-https://github.com/taisel/IodineGBA
+Play all the GBA games that you love
