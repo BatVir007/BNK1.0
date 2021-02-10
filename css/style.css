@@ -1,9 +1,8 @@
  
 body {
-color: A6E5FF;
 background-color: A6FFAC;
 border: 4px solid Gray;
-border-radius: 16px;
+border-radius: 32px;
 font-family: Brush Script MT;
 margin-left: auto;
 margin-right: auto;
@@ -13,4 +12,5 @@ padding-top: 8px;
 padding-bottom: 10px;
 padding-left: 10px;
 padding-right: 10px;
+text-decoration: none;
 }
