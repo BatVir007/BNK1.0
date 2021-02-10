@@ -110,7 +110,8 @@ var games = {
     "warioland4":"Wario Land 4",
     "wario_ware":"Wario Ware Inc",
     "zelda_past":"The Legend of Zelda: A Link to the Past",
-    "zelda_minish":"The Legend of Zelda: The Minish Cap"
+    "zelda_minish":"The Legend of Zelda: The Minish Cap",
+    "zelda_classic: "The Legend of Zelda: Classic",
 };
 var Iodine = null;
 var Blitter = null;
@@ -119,7 +120,7 @@ var MixerInput = null;
 var timerID = null;
 window.onload = function () {
     if (!games[location.hash.substr(1)]) {
-        alert("Invalid game request!");
+        alert("Dat dare game no no work");
         return;
     }
     //Initialize Iodine:
