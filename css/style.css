@@ -29,9 +29,7 @@ border-right: 2px solid #111111;
 padding-right: 8px;
 padding-left: 8px;
 }
-nav ul li: first-child {
-border-right: none;
-}
+
 nav ul li a {
 text-decoration: none;
 color: #111111
