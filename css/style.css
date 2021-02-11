@@ -15,16 +15,11 @@ padding-right: 10px;
 text-decoration: none;
 }
 
-html {
-background: radial-gradient (circle, SkyBlue, SkyBlue 50%, LightCyan 50%, SkyBlue);
-background-size: 8px 8px;
-}
-
 nav ul {
 text-allign: center;
 list-style-type: none;
 background-color: #B577B5;
-border: 4px solid #B577B5;
+border: 4px solid #111111;
 border-radius: 10px;
 font-weight: bold;
 padding: 16px;
@@ -38,4 +33,8 @@ padding-left: 8px;
 nav ul li a {
 text-decoration: none;
 color: #111111
+}
+
+a:hover {
+color: white;
 }
