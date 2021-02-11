@@ -39,6 +39,7 @@ color: white;
 
 article {
  float: left;
+ padding-right: 24px;
  padding-left: 24px;
  width: 100%;
  border: 4px solid #111111;
@@ -48,7 +49,6 @@ article {
 
 aside {
  float: right;
- padding-right: 24px;
  width: 50%
 }
 
