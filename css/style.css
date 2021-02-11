@@ -38,3 +38,15 @@ color: #111111
 a:hover {
 color: white;
 }
+
+article {
+ float: left;
+ padding-left: 24px;
+ width: 50%;
+}
+
+aside {
+ float: right;
+ padding-right: 24px;
+ width: 50%
+}
