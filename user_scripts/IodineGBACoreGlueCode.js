@@ -112,6 +112,7 @@ var games = {
     "zelda_past":"The Legend of Zelda: A Link to the Past",
     "zelda_minish":"The Legend of Zelda: The Minish Cap",
     "zelda_classic":"The Legend of Zelda: Classic",
+    "doom":"Doom",
 };
 var Iodine = null;
 var Blitter = null;
