@@ -113,6 +113,7 @@ var games = {
     "zelda_minish":"The Legend of Zelda: The Minish Cap",
     "zelda_classic":"The Legend of Zelda: Classic",
     "doom":"Doom",
+    "pokemon_gold":"Pokemon: Gold",
 };
 var Iodine = null;
 var Blitter = null;
